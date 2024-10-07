@@ -1,0 +1,5 @@
+﻿  disk.c
+c1 : fatal error C1083: 소스 파일을 열 수 없습니다. 'disk.c': No such file or directory
+  main.c
+C:\Users\wockd\source\repos\Project26\Project26\main.c(6,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'disk.c': No such file or directory
+  코드를 생성하고 있습니다...
